@@ -1,0 +1,13 @@
+body {
+  background-image: url("../assets/heavensgate.jpg");
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
